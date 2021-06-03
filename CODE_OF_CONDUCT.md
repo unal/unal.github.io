@@ -1,6 +1,6 @@
 # Code of Conduct
 
-**Spanish below**
+**En Español más abajo**
 
 - We are committed to provide a welcoming and safe environment for everyone,
 regardless of any part of their personal identity including gender, sexual
@@ -28,6 +28,8 @@ This Code of Conduct is adapted from the [Rust Code of Conduct][rust-coc].
 
 ----
 
+# Código de Conducta
+
 - Estamos comprometidos con proporcionar un entorno acogedor y seguro para todos,
 sin importar ninguna parte de su identidad personal, tal como género, orientación
 sexual, apariencia, ideología política, religión, etnia, raza, edad, capacidades, o
@@ -51,6 +53,7 @@ esta comunidad un espacio seguro y tendrá nuestro apoyo.
 No importa quien sea, si siente que ha sido o está incómodo o siendo acosado por 
 un miembro de la comunidad, por favor contáctenos escribiendo a [jcvargasq@unal.edu.co](mailto:jcvargasq@unal.edu.co).
 
-Este _Code of Conduct_ fue adaptado del [Code of Conduct de Rust][rust-coc].
+Este _Code of Conduct_ fue adaptado del [Code of Conduct de Rust][rust-coc] ([en Español][rust-coc-es]).
 
 [rust-coc]: https://www.rust-lang.org/policies/code-of-conduct
+[rust-coc-es]: https://www.rust-lang.org/es/policies/code-of-conduct
