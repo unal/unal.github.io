@@ -49,7 +49,7 @@ que podría incluirse en ese concepto, por favor lea su definición.
 esta comunidad un espacio seguro y tendrá nuestro apoyo.
 
 No importa quien sea, si siente que ha sido o está incómodo o siendo acosado por 
-un miembro de la comunidad, por favor contáctenos en [jcvargasq@unal.edu.co](mailto:jcvargasq@unal.edu.co).
+un miembro de la comunidad, por favor contáctenos escribiendo a [jcvargasq@unal.edu.co](mailto:jcvargasq@unal.edu.co).
 
 Este _Code of Conduct_ fue adaptado del [Code of Conduct de Rust][rust-coc].
 
