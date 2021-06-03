@@ -24,6 +24,8 @@ community a safe place for you and we've got your back.
 No matter who you are, if you feel you have been or are being harassed or made
 uncomfortable by a community member, please contact us at [jcvargasq@unal.edu.co](mailto:jcvargasq@unal.edu.co).
 
+This Code of Conduct is adapted from the [Rust Code of Conduct][rust-coc].
+
 ----
 
 - Estamos comprometidos con proporcionar un entorno acogedor y seguro para todos,
@@ -48,3 +50,7 @@ esta comunidad un espacio seguro y tendrá nuestro apoyo.
 
 No importa quien sea, si siente que ha sido o está incómodo o siendo acosado por 
 un miembro de la comunidad, por favor contáctenos en [jcvargasq@unal.edu.co](mailto:jcvargasq@unal.edu.co).
+
+Este _Code of Conduct_ fue adaptado del [Code of Conduct de Rust][rust-coc].
+
+[rust-coc]: https://www.rust-lang.org/policies/code-of-conduct
